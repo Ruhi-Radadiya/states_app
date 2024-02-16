@@ -1,2 +1,3 @@
-<img src="https://github.com/Ruhi-Radadiya/states_app/assets/150025610/5e71ad11-a33c-4ad6-9101-5192d58f6e08"width=300px>
 
+
+![Screenshot_20240216_101452](https://github.com/Ruhi-Radadiya/states_app/assets/150025610/a9d5c000-7bcd-4b47-b3ff-8d73f90f5d1a)
